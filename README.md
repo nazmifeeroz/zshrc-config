@@ -13,7 +13,7 @@ brew cask install font-meslo-nerd-font
 ```shell
 iTerm2 -> Preferences -> Profiles -> Text -> Font -> Change Font
 ```
-![Font Preference](/text-pref.png)
+![Font Preference](/font-pref.png)
 
 4. Install Powerlevel9k
 ```shell
