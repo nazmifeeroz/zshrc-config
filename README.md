@@ -2,7 +2,7 @@
 
 ![My Terminal](/my-term.png)
 
-> Terminal may need to reset
+> Terminal may need to reset (WARNING: this resets terminal preferences)
 > defaults delete com.googlecode.iterm2
 
 1. Install Material Design color scheme - https://github.com/MartinSeeler/iterm2-material-design
